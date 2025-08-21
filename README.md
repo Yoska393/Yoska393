@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Hayato
 
-<!--
-**Yoska393/Yoska393** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a PhD Student at the University of Tokyo in Biostatistics.
+I work on statistical & computational methods for life sciences, especially omics.
 
-Here are some ideas to get you started:
+- 🔭 Current focus: multi-omics modeling
+- 💬 Ask me about: R, mixed models, MCMC
+- 📫 Contact: yoshioka [at] biomet [dot] org
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧪 Tech
+- Languages: R, Python
+- Stats: Mixed models, Multivariate modeling, GWAS
+
+## 📈 Recent work
+- Two-Step: Nonlinear mixed models with omics
+- rrda: Ridge Redundancy Analysis for high-dimensional omics data
+- SoyPlantMicro: Machine Learning for Plant-Microbe Interactions
