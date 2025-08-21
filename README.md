@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hayato
+👋 Hi, I'm Hayato
 
 I’m a PhD Student at the University of Tokyo in Biostatistics.
 I work on statistical & computational methods for life sciences, especially omics.
