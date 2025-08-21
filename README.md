@@ -6,12 +6,10 @@ I work on statistical & computational methods for life sciences, especially omic
 - 🔭 Current focus: multi-omics modeling
 - 💬 Ask me about: R, mixed models, MCMC
 - 📫 Contact: yoshioka [at] biomet [dot] org
-
-## 🧪 Tech
 - Languages: R, Python
 - Stats: Mixed models, Multivariate modeling, GWAS
 
-## 📈 Recent work
+### 📈 Recent work
 - Two-Step: Nonlinear mixed models with omics
 - rrda: Ridge Redundancy Analysis for high-dimensional omics data
 - SoyPlantMicro: Machine Learning for Plant-Microbe Interactions
