@@ -5,7 +5,7 @@
 
 - 🔭 Current focus: multi-omics modeling
 - 🐍 Languages: R, Python
-- 📈 Stats: Mixed models, Multivariate modeling, GWAS
+- 📈 Stats: Mixed models, Multivariate modeling, Machine Learning
 - 📫 Contact: yoshioka [at] biomet [dot] org
 
 ### 📈 Recent works
