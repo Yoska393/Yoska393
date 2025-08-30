@@ -9,6 +9,6 @@
 - 📫 Contact: yoshioka [at] biomet [dot] org
 
 ### 📈 Recent works
-- 🚀 **Twostep**: Nonlinear and mixed models with intermediate omics  
+- 🚀 **Twostep**: Nonlinear and mixed models for intermediate omics  
 - 📐 **rrda**: Ridge Redundancy Analysis for high-dimensional omics data  
 - 🌿 **SoyPlantMicro**: Machine Learning for Plant-Microbe Interactions
