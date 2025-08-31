@@ -2,7 +2,6 @@
 
 🎓 I’m a PhD Student at **The University of Tokyo** in Biostatistics.  
 🧪 I work on statistical & computational methods for life sciences, especially **omics**.
-
 ✉️ Contact: yoshioka [at] biomet [dot] org
 
 - 🔭 Current focus: multi-omics modeling
