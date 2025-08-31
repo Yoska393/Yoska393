@@ -3,12 +3,11 @@
 🎓 I’m a PhD Student at **The University of Tokyo** in Biostatistics.  
 🧪 I work on statistical & computational methods for life sciences, especially **omics**.
 
-✉️ Contact: yoshioka [at] ut-biomet.org
+✉️ Contact: yoshioka [at] biomet [dot] org
 
 - 🔭 Current focus: multi-omics modeling
 - 🐍 Languages: R, Python
 - 📈 Stats: Mixed model, Multivariate modeling, Machine Learning
-- 📫 Contact: yoshioka [at] biomet [dot] org
 
 ### 📈 Recent works
 - 🚀 **Twostep**: Nonlinear and mixed models for intermediate omics  
