@@ -8,7 +8,7 @@
 - 🐍 Languages: R, Python
 - 📈 Stats: Mixed model, Multivariate modeling, Machine Learning
 
-### 📈 Recent works
+### Recent works
 - 🚀 **Twostep**: Nonlinear and mixed models for intermediate omics  
 - 📐 **rrda**: Ridge Redundancy Analysis for high-dimensional omics data  
 - 🌿 **SoyPlantMicro**: Machine Learning for Plant-Microbe Interactions
